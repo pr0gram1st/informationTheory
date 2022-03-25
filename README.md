@@ -1,5 +1,5 @@
 <h1> Encoding using Huffman coding algorithm </h1>
-<p>To encode some text file into binary sequence, e.g. "akzhol1337" -> "11111010100110011110100110110000".</p>
+<p>To encode some text file into binary sequence, e.g. "Adilet" -> "11111010100110011110100110110000".</p>
 <p>We need to assign every unique character <strong>binary code</strong></p>
 <p>for example: </p>
 <code>
